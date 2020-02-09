@@ -1,4 +1,4 @@
-# shaders
+# Shaders
 This is my shader portfolio.
 
 ## Unity Shaders
